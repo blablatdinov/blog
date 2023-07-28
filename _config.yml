@@ -1,0 +1,40 @@
+title: 256 Bloghacks Demo
+email: a.ilaletdinov@yandex.ru
+description: >
+  This is my blog
+baseurl: ""
+url: "http://ilaletdinov.ru"
+twitter_username: blablatdinov
+github_username: blablatdinov
+markdown: kramdown
+author:
+  name: "Almaz Ilaletdinov"
+  email: a.ilaletdinov@yandex.ru
+encoding: utf-8
+timezone: Europe/Moscow
+permalink: :year/:month/:day/:title.html
+exclude:
+  - README.md
+  - Gemfile.lock
+  - Gemfile
+  - Rakefile
+  - LICENSE.txt
+
+gems:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+
+paginate: 8
+paginate_path: "p/:num"
+excerpt_separator: <!--more-->
+
+feed:
+  title: ilaletdinov.ru
+  subtitle: Almaz Ilaletdinov blog
+  path: rss.xml
+
+sass:
+  style: compressed
+  deploy_style: compressed
+  compile_in_place: false
