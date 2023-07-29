@@ -19,6 +19,19 @@ This blog is designed in order to demonstrate how GitHub Pages
 can be used to host "static blogs". In my opinion, this is the
 best platform on the market now for blog hosting.
 
+```python
+import attrs
+
+
+@attrs.define
+class Example(object):
+
+    _attr: int
+
+    def method(self):
+        return Example(self._attr + 1)
+```
+
 <!--more-->
 
 Source code of this blog is in this
