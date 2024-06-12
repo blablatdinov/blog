@@ -11,5 +11,5 @@ keywords:
   - 256 bloghacks
 ---
 
-Yegor Bugayenko ([`@blablatdinov`](https://github.com/blablatdinov)) is the author of this
+Almaz Ilaletdinov ([`@blablatdinov`](https://github.com/blablatdinov)) is the author of this
 website. .
