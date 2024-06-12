@@ -7,4 +7,3 @@ rss.xml
 sitemap.xml
 css/main.css
 images/tomato.svg
-2016/09/12/first-post.html
