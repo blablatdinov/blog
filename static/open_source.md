@@ -8,13 +8,19 @@ keywords:
   - open source
 ---
 
+## Own projects:
+
+[deltaver](https://github.com/blablatdinov/deltaver) - python project designed to calculate the lag or delay in dependencies in terms of days.
+
+[ondivi](https://github.com/blablatdinov/ondivi) - python script filtering coding violations, identified by static analysis, only for changed lines in a Git repo.
+
+[pyeo](https://github.com/blablatdinov/pyeo) - advanced static analysis tool tailored specifically to enforce the principles advocated by Elegant Objects ([elegantobjects.org](https://elegantobjects.org)) in Python projects. It serves as a quality control instrument to ensure that your Python code adheres to the core tenets of elegance, simplicity, and maintainability.
+
+## Accepted PR's:
+
 [wemake python styleguide](https://github.com/wemake-services/wemake-python-styleguide/pulls?q=is%3Apr+author%3Ablablatdinov+is%3Aclosed)
 
 [DRF](https://github.com/encode/django-rest-framework/pulls?q=is%3Apr+author%3Ablablatdinov+is%3Aclosed)
-
-[deltaver](https://github.com/blablatdinov/deltaver)
-
-[ondivi](https://github.com/blablatdinov/ondivi)
 
 [nats.py](https://github.com/nats-io/nats.py/pulls?q=is%3Apr+author%3Ablablatdinov+is%3Aclosed)
 
@@ -27,6 +33,8 @@ keywords:
 [gitdb](https://github.com/gitpython-developers/gitdb/pull/113)
 
 [mutmut](https://github.com/boxed/mutmut/pull/323)
+
+## Discussions:
 
 [TheDigitalCatOnline](https://github.com/TheDigitalCatOnline/blog_source/issues/14)
 
