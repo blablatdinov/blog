@@ -16,6 +16,8 @@ keywords:
 
 [pyeo](https://github.com/blablatdinov/pyeo) - advanced static analysis tool tailored specifically to enforce the principles advocated by Elegant Objects ([elegantobjects.org](https://elegantobjects.org)) in Python projects. It serves as a quality control instrument to ensure that your Python code adheres to the core tenets of elegance, simplicity, and maintainability.
 
+[clup](https://github.com/blablatdinov/clup) - update your CHANGELOG.md with new version entries and release dates
+
 ## Accepted PR's:
 
 [wemake python styleguide](https://github.com/wemake-services/wemake-python-styleguide/pulls?q=is%3Apr+author%3Ablablatdinov+is%3Aclosed)
