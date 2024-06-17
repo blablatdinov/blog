@@ -2,7 +2,7 @@
 ---
 @charset 'utf-8';
 // see https://fonts.google.com/
-@import 'https://fonts.googleapis.com/css?family=Lora';
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
 
 $black: #000;
 
@@ -17,7 +17,7 @@ $black: #000;
 * {
   border: 0;
   box-sizing: border-box;
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: 'Jost:ital', 'Times New Roman', serif;
   font-size: 18px;
   margin: 0;
   padding: 0;
