@@ -32,9 +32,11 @@ keywords:
 
 [curlify2](https://github.com/marcuxyz/curlify2/pulls?q=is%3Apr+is%3Aclosed+author%3Ablablatdinov)
 
-[gitdb](https://github.com/gitpython-developers/gitdb/pull/113)
+[gitdb](https://github.com/gitpython-developers/gitdb/pulls?q=is%3Apr+is%3Aclosed+author%3Ablablatdinov)
 
-[mutmut](https://github.com/boxed/mutmut/pull/323)
+[mutmut](https://github.com/boxed/mutmut/pulls?q=is%3Apr+is%3Aclosed+author%3Ablablatdinov)
+
+[pylint-per-file-ignores](https://github.com/christopherpickering/pylint-per-file-ignores/pulls?q=is%3Apr+is%3Aclosed+author%3Ablablatdinov)
 
 ## Discussions:
 
