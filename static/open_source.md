@@ -16,7 +16,9 @@ keywords:
 
 [pyeo](https://github.com/blablatdinov/pyeo) - advanced static analysis tool tailored specifically to enforce the principles advocated by Elegant Objects ([elegantobjects.org](https://elegantobjects.org)) in Python projects. It serves as a quality control instrument to ensure that your Python code adheres to the core tenets of elegance, simplicity, and maintainability.
 
-[clup](https://github.com/blablatdinov/clup) - update your CHANGELOG.md with new version entries and release dates
+[clup](https://github.com/blablatdinov/clup) - update your CHANGELOG.md with new version entries and release dates.
+
+[anki-action](https://github.com/blablatdinov/anki-action) - This GitHub Action allows you to convert Markdown files into Anki flashcards. You can easily create Anki decks from your markdown content using this automated workflow.
 
 ## Accepted PR's:
 
