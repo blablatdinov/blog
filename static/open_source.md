@@ -40,6 +40,8 @@ keywords:
 
 [pylint-per-file-ignores](https://github.com/christopherpickering/pylint-per-file-ignores/pulls?q=is%3Apr+is%3Aclosed+author%3Ablablatdinov)
 
+[pylint-per-file-ignores](https://github.com/yegor256/awesome-cfp/pulls?q=is%3Apr+is%3Aclosed+author%3Ablablatdinov)
+
 [All github contributions](https://github.com/search?q=-owner%3Ablablatdinov+author%3Ablablatdinov&type=pullrequests&p=4)
 
 ## Discussions:
