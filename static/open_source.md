@@ -20,6 +20,8 @@ keywords:
 
 [anki-action](https://github.com/blablatdinov/anki-action) - This GitHub Action allows you to convert Markdown files into Anki flashcards. You can easily create Anki decks from your markdown content using this automated workflow.
 
+[flake8-final](https://github.com/blablatdinov/flake8-final) - flake8 plugin for check and inheritance of implementations. Inheritance is bad and that composition over inheritance is a good idea
+
 ## Accepted PR's:
 
 [wemake python styleguide](https://github.com/wemake-services/wemake-python-styleguide/pulls?q=is%3Apr+author%3Ablablatdinov+is%3Aclosed)
