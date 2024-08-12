@@ -26,6 +26,8 @@ keywords:
 
 [wemake python styleguide](https://github.com/wemake-services/wemake-python-styleguide/pulls?q=is%3Apr+author%3Ablablatdinov+is%3Aclosed)
 
+[wemake python package](https://github.com/wemake-services/wemake-python-package/pulls?q=is%3Apr+is%3Aclosed+author%3Ablablatdinov)
+
 [DRF](https://github.com/encode/django-rest-framework/pulls?q=is%3Apr+author%3Ablablatdinov+is%3Aclosed)
 
 [nats.py](https://github.com/nats-io/nats.py/pulls?q=is%3Apr+author%3Ablablatdinov+is%3Aclosed)
