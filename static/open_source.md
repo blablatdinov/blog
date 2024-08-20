@@ -22,6 +22,10 @@ keywords:
 
 [flake8-final](https://github.com/blablatdinov/flake8-final) - flake8 plugin for check and inheritance of implementations. Inheritance is bad and that composition over inheritance is a good idea
 
+[flake8-override](https://github.com/blablatdinov/flake8-override) - Flake8 plugin designed to enforce a coding standard where every method in a class must have the "typing.override" decorator. This ensures that all public methods implement their counterparts from an interface, promoting better design practices
+
+[flake8-no-json](https://github.com/blablatdinov/flake8-no-json) -  This is a Flake8 plugin that prevents the use of the standard json package in Python code. The intent is to enforce the use of an alternative JSON handling library, such as ujson, orjson, or any other specified by your project guidelines.
+
 ## Accepted PR's:
 
 [wemake python styleguide](https://github.com/wemake-services/wemake-python-styleguide/pulls?q=is%3Apr+author%3Ablablatdinov+is%3Aclosed)
