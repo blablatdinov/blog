@@ -24,7 +24,9 @@ keywords:
 
 [flake8-override](https://github.com/blablatdinov/flake8-override) - Flake8 plugin designed to enforce a coding standard where every method in a class must have the "typing.override" decorator. This ensures that all public methods implement their counterparts from an interface, promoting better design practices
 
-[flake8-no-json](https://github.com/blablatdinov/flake8-no-json) -  This is a Flake8 plugin that prevents the use of the standard json package in Python code. The intent is to enforce the use of an alternative JSON handling library, such as ujson, orjson, or any other specified by your project guidelines.
+[flake8-no-json](https://github.com/blablatdinov/flake8-no-json) - This is a Flake8 plugin that prevents the use of the standard json package in Python code. The intent is to enforce the use of an alternative JSON handling library, such as ujson, orjson, or any other specified by your project guidelines.
+
+[revive-code-bot](https://github.com/blablatdinov/revive-code-bot) - Github bot is an automated tool designed to help maintain repositories by identifying and notifying about stagnant code files that might require review. It assists in keeping your projects up-to-date and promotes regular code reviews to ensure code quality.
 
 ## Accepted PR's:
 
