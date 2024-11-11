@@ -16,7 +16,7 @@ keywords:
 
 [pyeo](https://github.com/blablatdinov/pyeo) - advanced static analysis tool tailored specifically to enforce the principles advocated by Elegant Objects ([elegantobjects.org](https://elegantobjects.org)) in Python projects. It serves as a quality control instrument to ensure that your Python code adheres to the core tenets of elegance, simplicity, and maintainability.
 
-[clup](https://github.com/blablatdinov/clup) - update your CHANGELOG.md with new version entries and release dates.
+[revive-code-bot](https://github.com/blablatdinov/revive-code-bot) - Github bot is an automated tool designed to help maintain repositories by identifying and notifying about stagnant code files that might require review. It assists in keeping your projects up-to-date and promotes regular code reviews to ensure code quality.
 
 [anki-action](https://github.com/blablatdinov/anki-action) - This GitHub Action allows you to convert Markdown files into Anki flashcards. You can easily create Anki decks from your markdown content using this automated workflow.
 
@@ -26,7 +26,7 @@ keywords:
 
 [flake8-no-json](https://github.com/blablatdinov/flake8-no-json) - This is a Flake8 plugin that prevents the use of the standard json package in Python code. The intent is to enforce the use of an alternative JSON handling library, such as ujson, orjson, or any other specified by your project guidelines.
 
-[revive-code-bot](https://github.com/blablatdinov/revive-code-bot) - Github bot is an automated tool designed to help maintain repositories by identifying and notifying about stagnant code files that might require review. It assists in keeping your projects up-to-date and promotes regular code reviews to ensure code quality.
+[flake8-one-class](https://github.com/blablatdinov/flake8-one-class) - In Python modules, having multiple classes in a single file can often indicate overly complex code or an unclear separation of concerns. The flake8-one-class plugin enforces a single public class per module to encourage modular and maintainable code design
 
 ## Accepted PR's:
 
