@@ -15,37 +15,40 @@ layout: compress
   </head>
   <body>
     <section>
-      <header>
+      <header role="banner">
         <a href="/about.html">
-          <img src="/images/my_photo.png" class="photo" alt="tomato" itemprop="image"/>
+          <img src="/images/my_photo.png" class="photo" alt="My photo" itemprop="image"/>
         </a>
-        <nav>
+        <nav aria-label="Main navigation">
           <ul>
             <li><a href="/">Home</a></li>
             <li><a href="/about.html">About</a></li>
-            <li><a href="/my-open-source.html">My open source</a></li>
+            <li><a href="/my-open-source.html">My Open Source</a></li>
           </ul>
         </nav>
-        <nav>
+        <div style="height: 0.5em;"></div>
+        <nav aria-label="Contacts">
           <ul>
             <li><a href="https://t.me/ilaletdinov">Telegram</a></li>
             <li><a href="{{ "/rss.xml" | prepend: site.baseurl }}">RSS</a></li>
             <li><a href="mailto:a.ilaletdinov@yandex.ru">a.ilaletdinov@yandex.ru</a></li>
           </ul>
         </nav>
-        <form method="get" action="https://www.google.com/search">
+        <form method="get" action="https://www.google.com/search" aria-label="Search">
           <input name="sitesearch" value="ilaletdinov.ru" type="hidden"/>
           <input type="text" name="q" placeholder="Search" autocomplete="off" size="30"/>
         </form>
       </header>
-      {{ content }}
-      <footer>
-        (c)
+      <main id="content" tabindex="-1">
+        {{ content }}
+      </main>
+      <footer role="contentinfo">
+        &copy;
         <span itemscope="" itemtype="http://schema.org/Person">
           <span itemprop="name">Almaz Ilaletdinov</span>
         </span>
         <br/>
-        2023-2024
+        2023-2025
       </footer>
     </section>
     <!-- Yandex.Metrika counter -->

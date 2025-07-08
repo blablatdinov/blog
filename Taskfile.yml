@@ -1,0 +1,27 @@
+version: '3'
+
+tasks:
+  build:
+    cmds:
+      - bundle install
+
+  serve:
+    cmds:
+      - bundle exec jekyll serve --host 0.0.0.0 --livereload
+  
+  docker-build:
+    cmds:
+      - docker build -t blog .
+
+  docker-run:
+    cmds:
+      - docker run -p 4000:4000 -p 35729:35729 -v ${PWD}:/usr/src/app blog bundle exec jekyll serve --host 0.0.0.0 --livereload
+
+  docker-bash:
+    cmds:
+      - docker run -it -p 4000:4000 -p 35729:35729 -v ${PWD}:/usr/src/app blog bash
+
+  clean:
+    cmds:
+      - rm -rf _site
+      - rm -rf .jekyll-cache

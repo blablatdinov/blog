@@ -5,6 +5,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
 
 $black: #000;
+$primary: #2d6cdf;
+$background: #f9f9fb;
+$text: #222;
+$accent: #ff5a36;
 
 %gray { color: lighten($black, 50); }
 
@@ -24,74 +28,109 @@ $black: #000;
 }
 
 body {
-  padding: 2em;
+  background: $background;
+  color: $text;
+  padding: 0;
+  min-height: 100vh;
 }
 
 section {
-  margin-left: auto;
-  margin-right: auto;
+  background: #fff;
+  border-radius: 18px;
+  box-shadow: 0 4px 24px rgba(44, 62, 80, 0.08);
+  margin: 2em auto;
   max-width: 100%;
   width: 640px;
+  padding: 2em 2em 1em 2em;
 }
 
 header {
   @extend %center;
-
-  input {
-    border: 1px solid $black;
-    max-width: 100%;
-    padding: .2em .6em;
-  }
+  margin-bottom: 2em;
 
   .photo {
-    height: 100px;
-    width: 100px;
+    border-radius: 50%;
+    box-shadow: 0 2px 8px rgba(44, 62, 80, 0.10);
+    height: 90px;
+    width: 90px;
+    margin-bottom: 1em;
   }
 
-  form,
-  nav {
-    margin: .4em 0;
+  nav ul li {
+    display: inline-block;
+    margin: 0 0.7em 0 0;
   }
 
-  ul li {
-    display: inline;
-    margin-right: .4em;
+  nav ul li a {
+    color: $primary;
+    text-decoration: none;
+    font-weight: 500;
+    padding: 0.2em 0.5em;
+    border-radius: 6px;
+    transition: background 0.2s, color 0.2s;
+    &:hover {
+      background: $primary;
+      color: #fff;
+    }
+  }
+
+  form {
+    margin-top: 1em;
+  }
+
+  input[type="text"] {
+    border: 1px solid lighten($primary, 30);
+    border-radius: 6px;
+    padding: .4em .8em;
+    font-size: 1em;
+    width: 100%;
+    max-width: 320px;
+    background: #f5f7fa;
+    transition: border 0.2s;
+    &:focus {
+      border: 1.5px solid $primary;
+      outline: none;
+    }
   }
 }
 
 article {
-  margin: 4em 0;
-
+  margin: 3em 0;
+  line-height: 1.7;
   h1 {
-    font-size: 1.8em;
-    font-weight: bold;
+    font-size: 2.1em;
+    font-weight: 700;
+    margin-bottom: 0.5em;
   }
-
   h2 {
     font-size: 1.4em;
-    font-weight: bold;
+    font-weight: 600;
+    margin-bottom: 0.4em;
   }
-
-  p,
-  h1,
-  h2,
-  h3,
-  ul,
-  ol {
-    margin-bottom: .5em;
-    margin-top: .5em;
+  p, h1, h2, h3, ul, ol {
+    margin-bottom: .7em;
+    margin-top: .7em;
   }
-
-  ul,
-  ol {
-    margin-left: 3em;
+  ul, ol {
+    margin-left: 2em;
   }
 }
 
 footer {
   @extend %gray;
   @extend %center;
-  font-size: .8em;
+  font-size: .9em;
+  margin-top: 2em;
+  opacity: 0.7;
+}
+
+a {
+  color: $accent;
+  text-decoration: underline;
+  transition: color 0.2s;
+  &:hover {
+    color: darken($accent, 10);
+  }
 }
 
 code {
@@ -103,5 +142,31 @@ code {
 
 .disqus {
   margin: 4em 0;
+}
+
+// Responsive styles
+@media (max-width: 800px) {
+  section {
+    width: 98vw;
+    padding: 1em 0.5em 0.5em 0.5em;
+    border-radius: 0;
+    box-shadow: none;
+  }
+  header .photo {
+    height: 70px;
+    width: 70px;
+  }
+}
+
+@media (max-width: 500px) {
+  body {
+    font-size: 16px;
+  }
+  section {
+    padding: 0.5em 0.2em 0.2em 0.2em;
+  }
+  header nav ul li {
+    margin: 0 0.3em 0 0;
+  }
 }
 
