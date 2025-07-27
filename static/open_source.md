@@ -10,6 +10,8 @@ keywords:
 
 ## Own projects:
 
+[croniq](https://github.com/blablatdinov/croniq) - A modern, open-source job scheduler built with Elixir and Phoenix. Features include HTTP task scheduling with full cron syntax, Web UI & REST API for management, and lightweight resource usage. [Live Demo](https://croniq.ilaletdinov.ru)
+
 [deltaver](https://github.com/blablatdinov/deltaver) - python project designed to calculate the lag or delay in dependencies in terms of days.
 
 [ondivi](https://github.com/blablatdinov/ondivi) - python script filtering coding violations, identified by static analysis, only for changed lines in a Git repo.
