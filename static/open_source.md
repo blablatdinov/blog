@@ -30,6 +30,8 @@ keywords:
 
 [flake8-one-class](https://github.com/blablatdinov/flake8-one-class) - In Python modules, having multiple classes in a single file can often indicate overly complex code or an unclear separation of concerns. The flake8-one-class plugin enforces a single public class per module to encourage modular and maintainable code design
 
+[gotemir](https://github.com/blablatdinov/gotemir) - Tool that verifies if the structure of the test directory mirrors the structure of the source code directory. It ensures that for every source file, a corresponding test file exists in the appropriate directory
+
 ## Accepted PR's:
 
 [wemake python styleguide](https://github.com/wemake-services/wemake-python-styleguide/pulls?q=is%3Apr+author%3Ablablatdinov+is%3Aclosed)
