@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'github-pages', '231', group: :jekyll_plugins
+gem 'github-pages', '232', group: :jekyll_plugins
 gem 'rake', '13.4.2'
 gem 'scss_lint', '0.60.0'
 gem 'w3c_validators', '1.3.7'
