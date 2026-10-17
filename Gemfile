@@ -4,7 +4,7 @@ gem 'github-pages', '231', group: :jekyll_plugins
 gem 'rake', '13.4.2'
 gem 'scss_lint', '0.60.0'
 gem 'w3c_validators', '1.3.7'
-gem 'html-proofer', '5.2.2'
+gem 'html-proofer', '5.2.3'
 gem 'rubocop', '1.90.0'
 gem 'rubocop-rspec', '3.10.2'
 gem 'webrick', '1.9.2'
