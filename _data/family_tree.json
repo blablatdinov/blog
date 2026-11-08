@@ -1,0 +1,1176 @@
+[
+  {
+    "id": "0",
+    "rels": {
+      "parents": [
+        "e615b431-ed1f-42e0-859a-928ba2a855a1",
+        "82595c00-fe63-453c-9544-b66ab3b7293a"
+      ],
+      "spouses": [
+        "c046e6d3-8632-4afd-b97a-853cc0b3712b"
+      ],
+      "children": [
+        "a613240e-92ef-487a-8472-12b647f3b096"
+      ]
+    },
+    "data": {
+      "first name": "Алмаз",
+      "last name": "Илалетдинов",
+      "birthday": "2000",
+      "avatar": "",
+      "gender": "M"
+    }
+  },
+  {
+    "id": "e615b431-ed1f-42e0-859a-928ba2a855a1",
+    "data": {
+      "gender": "M",
+      "first name": "Альберт",
+      "last name": "Илалетдинов",
+      "birthday": "1968",
+      "avatar": ""
+    },
+    "rels": {
+      "children": [
+        "0"
+      ],
+      "spouses": [
+        "82595c00-fe63-453c-9544-b66ab3b7293a"
+      ],
+      "parents": [
+        "843022da-7604-40e1-a830-5c2e9ac337ee",
+        "04f979eb-a16d-4604-8278-4a7dac7e094a"
+      ]
+    }
+  },
+  {
+    "id": "82595c00-fe63-453c-9544-b66ab3b7293a",
+    "data": {
+      "gender": "F",
+      "first name": "Гульшат",
+      "last name": "Илалетдинова",
+      "birthday": "1970",
+      "avatar": ""
+    },
+    "rels": {
+      "children": [
+        "0"
+      ],
+      "spouses": [
+        "e615b431-ed1f-42e0-859a-928ba2a855a1"
+      ],
+      "parents": [
+        "aac4d0ee-9df6-4311-bda1-a22ee9f8dde9",
+        "31fd9c40-8803-41f1-84ad-fdf9b1608992"
+      ]
+    }
+  },
+  {
+    "id": "c046e6d3-8632-4afd-b97a-853cc0b3712b",
+    "data": {
+      "gender": "F",
+      "first name": "Айгуль",
+      "last name": "Илалетдинов",
+      "birthday": "1999",
+      "avatar": ""
+    },
+    "rels": {
+      "children": [
+        "a613240e-92ef-487a-8472-12b647f3b096"
+      ],
+      "spouses": [
+        "0"
+      ],
+      "parents": [
+        "69e7eb06-0a7a-490d-8a8a-4829a31646bf",
+        "89cbaa29-6844-4335-84f2-e2bc5bad57cc"
+      ]
+    }
+  },
+  {
+    "id": "a613240e-92ef-487a-8472-12b647f3b096",
+    "data": {
+      "gender": "M",
+      "first name": "Таир",
+      "last name": "Илалетдинов",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "parents": [
+        "0",
+        "c046e6d3-8632-4afd-b97a-853cc0b3712b"
+      ]
+    }
+  },
+  {
+    "id": "69e7eb06-0a7a-490d-8a8a-4829a31646bf",
+    "data": {
+      "gender": "M",
+      "first name": "Айрат Зангиров",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "children": [
+        "c046e6d3-8632-4afd-b97a-853cc0b3712b",
+        "8f0d8fcf-4a3f-422d-ad69-cb3966ae55bd",
+        "b5116a11-ccb8-4a04-9e91-9d11b3e16cf2",
+        "00dfc0c9-ac23-4157-8820-aa44afd3a79f"
+      ],
+      "spouses": [
+        "89cbaa29-6844-4335-84f2-e2bc5bad57cc"
+      ],
+      "parents": [
+        "1c96f08c-4d5a-4aae-a610-8777437e2b82",
+        "e1d1a85b-83be-4459-b373-387fa4e79da2"
+      ]
+    }
+  },
+  {
+    "id": "89cbaa29-6844-4335-84f2-e2bc5bad57cc",
+    "data": {
+      "gender": "F",
+      "first name": "Гузелия",
+      "last name": "Зангирова",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "children": [
+        "c046e6d3-8632-4afd-b97a-853cc0b3712b",
+        "8f0d8fcf-4a3f-422d-ad69-cb3966ae55bd",
+        "b5116a11-ccb8-4a04-9e91-9d11b3e16cf2",
+        "00dfc0c9-ac23-4157-8820-aa44afd3a79f"
+      ],
+      "spouses": [
+        "69e7eb06-0a7a-490d-8a8a-4829a31646bf"
+      ],
+      "parents": [
+        "9a371485-6402-49f4-a0ca-a7f32ce41ac4",
+        "92aca72c-256b-411d-94cb-eae7bc302c0f"
+      ]
+    }
+  },
+  {
+    "id": "8f0d8fcf-4a3f-422d-ad69-cb3966ae55bd",
+    "data": {
+      "gender": "F",
+      "first name": "Гульназ",
+      "last name": "Зангирова",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "parents": [
+        "89cbaa29-6844-4335-84f2-e2bc5bad57cc",
+        "69e7eb06-0a7a-490d-8a8a-4829a31646bf"
+      ]
+    }
+  },
+  {
+    "id": "b5116a11-ccb8-4a04-9e91-9d11b3e16cf2",
+    "data": {
+      "gender": "F",
+      "first name": "Язгуль",
+      "last name": "Зангирова",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "parents": [
+        "89cbaa29-6844-4335-84f2-e2bc5bad57cc",
+        "69e7eb06-0a7a-490d-8a8a-4829a31646bf"
+      ]
+    }
+  },
+  {
+    "id": "00dfc0c9-ac23-4157-8820-aa44afd3a79f",
+    "data": {
+      "gender": "F",
+      "first name": "Айлин",
+      "last name": "Зангирова",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "parents": [
+        "89cbaa29-6844-4335-84f2-e2bc5bad57cc",
+        "69e7eb06-0a7a-490d-8a8a-4829a31646bf"
+      ]
+    }
+  },
+  {
+    "id": "aac4d0ee-9df6-4311-bda1-a22ee9f8dde9",
+    "data": {
+      "gender": "M",
+      "first name": "Фоат Валиев",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "parents": [
+        "af1b373c-733b-4d01-9ec8-d785812697da"
+      ],
+      "children": [
+        "82595c00-fe63-453c-9544-b66ab3b7293a"
+      ],
+      "spouses": [
+        "31fd9c40-8803-41f1-84ad-fdf9b1608992"
+      ]
+    }
+  },
+  {
+    "id": "31fd9c40-8803-41f1-84ad-fdf9b1608992",
+    "data": {
+      "gender": "F",
+      "first name": "Клара",
+      "last name": "Валиева",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "children": [
+        "82595c00-fe63-453c-9544-b66ab3b7293a"
+      ],
+      "spouses": [
+        "aac4d0ee-9df6-4311-bda1-a22ee9f8dde9"
+      ]
+    }
+  },
+  {
+    "id": "af1b373c-733b-4d01-9ec8-d785812697da",
+    "data": {
+      "gender": "M",
+      "first name": "Ахат",
+      "last name": "Валиев",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "children": [
+        "aac4d0ee-9df6-4311-bda1-a22ee9f8dde9",
+        "2b902dfa-0e04-4b72-ab57-0c05ce40c6e5"
+      ]
+    }
+  },
+  {
+    "id": "2b902dfa-0e04-4b72-ab57-0c05ce40c6e5",
+    "data": {
+      "gender": "F",
+      "first name": "Файруза",
+      "last name": "Минаева",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "parents": [
+        "af1b373c-733b-4d01-9ec8-d785812697da"
+      ],
+      "children": [
+        "4663a42e-08a8-40e4-ac02-fd965db96a37"
+      ]
+    }
+  },
+  {
+    "id": "4663a42e-08a8-40e4-ac02-fd965db96a37",
+    "data": {
+      "gender": "F",
+      "first name": "Гульнара",
+      "last name": "Загидуллина",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "parents": [
+        "2b902dfa-0e04-4b72-ab57-0c05ce40c6e5"
+      ],
+      "children": [
+        "2a85f889-d3cb-4c6d-8785-3519d3144663",
+        "36aae846-338f-4487-93db-5e81206d62dc",
+        "a5742af7-6670-44fa-877d-0695d8cff443"
+      ],
+      "spouses": [
+        "ee02aaec-90bb-4ecf-b388-3873c485b3be"
+      ]
+    }
+  },
+  {
+    "id": "ee02aaec-90bb-4ecf-b388-3873c485b3be",
+    "data": {
+      "gender": "M",
+      "first name": "Рамиль",
+      "last name": "Загидуллин",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "children": [
+        "2a85f889-d3cb-4c6d-8785-3519d3144663",
+        "36aae846-338f-4487-93db-5e81206d62dc",
+        "a5742af7-6670-44fa-877d-0695d8cff443"
+      ],
+      "spouses": [
+        "4663a42e-08a8-40e4-ac02-fd965db96a37"
+      ]
+    }
+  },
+  {
+    "id": "2a85f889-d3cb-4c6d-8785-3519d3144663",
+    "data": {
+      "gender": "M",
+      "first name": "Булат",
+      "last name": "Загидуллин",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "parents": [
+        "4663a42e-08a8-40e4-ac02-fd965db96a37",
+        "ee02aaec-90bb-4ecf-b388-3873c485b3be"
+      ]
+    }
+  },
+  {
+    "id": "36aae846-338f-4487-93db-5e81206d62dc",
+    "data": {
+      "gender": "M",
+      "first name": "Разиль",
+      "last name": "Загидуллин",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "parents": [
+        "4663a42e-08a8-40e4-ac02-fd965db96a37",
+        "ee02aaec-90bb-4ecf-b388-3873c485b3be"
+      ]
+    }
+  },
+  {
+    "id": "a5742af7-6670-44fa-877d-0695d8cff443",
+    "data": {
+      "gender": "M",
+      "first name": "Рамин",
+      "last name": "Загидуллин",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "parents": [
+        "4663a42e-08a8-40e4-ac02-fd965db96a37",
+        "ee02aaec-90bb-4ecf-b388-3873c485b3be"
+      ]
+    }
+  },
+  {
+    "id": "843022da-7604-40e1-a830-5c2e9ac337ee",
+    "data": {
+      "gender": "F",
+      "first name": "Альбина",
+      "last name": "Илалетдинова",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "children": [
+        "e615b431-ed1f-42e0-859a-928ba2a855a1",
+        "9bc0d7cf-9dd7-4968-bf24-b8d32f2dbaed"
+      ],
+      "spouses": [
+        "04f979eb-a16d-4604-8278-4a7dac7e094a"
+      ]
+    }
+  },
+  {
+    "id": "04f979eb-a16d-4604-8278-4a7dac7e094a",
+    "data": {
+      "gender": "M",
+      "first name": "Альфред",
+      "last name": "Илалетдинов",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "children": [
+        "e615b431-ed1f-42e0-859a-928ba2a855a1",
+        "9bc0d7cf-9dd7-4968-bf24-b8d32f2dbaed"
+      ],
+      "spouses": [
+        "843022da-7604-40e1-a830-5c2e9ac337ee"
+      ]
+    }
+  },
+  {
+    "id": "9bc0d7cf-9dd7-4968-bf24-b8d32f2dbaed",
+    "data": {
+      "gender": "M",
+      "first name": "Айрат",
+      "last name": "Иллалетдинов",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "parents": [
+        "04f979eb-a16d-4604-8278-4a7dac7e094a",
+        "843022da-7604-40e1-a830-5c2e9ac337ee"
+      ],
+      "children": [
+        "f99cc1d8-7dbf-4663-887d-05eefb96b050",
+        "36e464cf-837c-4273-b933-e58345a67254"
+      ],
+      "spouses": [
+        "a91f9ff9-ac2f-456a-ac5c-173a2b46e194"
+      ]
+    }
+  },
+  {
+    "id": "a91f9ff9-ac2f-456a-ac5c-173a2b46e194",
+    "data": {
+      "gender": "F",
+      "first name": "Алия",
+      "last name": "Иллалетдинова",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "children": [
+        "f99cc1d8-7dbf-4663-887d-05eefb96b050",
+        "36e464cf-837c-4273-b933-e58345a67254"
+      ],
+      "spouses": [
+        "9bc0d7cf-9dd7-4968-bf24-b8d32f2dbaed"
+      ]
+    }
+  },
+  {
+    "id": "f99cc1d8-7dbf-4663-887d-05eefb96b050",
+    "data": {
+      "gender": "F",
+      "first name": "Лиана",
+      "last name": "Иллалетдинова",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "parents": [
+        "a91f9ff9-ac2f-456a-ac5c-173a2b46e194",
+        "9bc0d7cf-9dd7-4968-bf24-b8d32f2dbaed"
+      ]
+    }
+  },
+  {
+    "id": "36e464cf-837c-4273-b933-e58345a67254",
+    "data": {
+      "gender": "F",
+      "first name": "Луиза",
+      "last name": "Иллалетдинова",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "parents": [
+        "a91f9ff9-ac2f-456a-ac5c-173a2b46e194",
+        "9bc0d7cf-9dd7-4968-bf24-b8d32f2dbaed"
+      ]
+    }
+  },
+  {
+    "id": "1c96f08c-4d5a-4aae-a610-8777437e2b82",
+    "data": {
+      "gender": "M",
+      "first name": "Зангиров Ильгиз",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "children": [
+        "69e7eb06-0a7a-490d-8a8a-4829a31646bf",
+        "cdc27885-7067-492a-b312-5b6cffee1e0f"
+      ],
+      "spouses": [
+        "e1d1a85b-83be-4459-b373-387fa4e79da2"
+      ],
+      "parents": [
+        "5b4a23b0-c77d-412c-802f-2d407180079e"
+      ]
+    }
+  },
+  {
+    "id": "e1d1a85b-83be-4459-b373-387fa4e79da2",
+    "data": {
+      "gender": "F",
+      "first name": "Зангирова Наиля",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "children": [
+        "69e7eb06-0a7a-490d-8a8a-4829a31646bf",
+        "cdc27885-7067-492a-b312-5b6cffee1e0f"
+      ],
+      "spouses": [
+        "1c96f08c-4d5a-4aae-a610-8777437e2b82"
+      ],
+      "parents": [
+        "b848e42c-ee92-4597-86b0-1a838290dd6f",
+        "3506e909-bda3-47f2-9a6b-b022e68343c3"
+      ]
+    }
+  },
+  {
+    "id": "cdc27885-7067-492a-b312-5b6cffee1e0f",
+    "data": {
+      "gender": "M",
+      "first name": "Зангиров Марат",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "parents": [
+        "1c96f08c-4d5a-4aae-a610-8777437e2b82",
+        "e1d1a85b-83be-4459-b373-387fa4e79da2"
+      ],
+      "children": [
+        "35ba5a1f-7d6f-46e9-81b1-eea324de1195"
+      ],
+      "spouses": [
+        "0ecfb9ae-78c1-4095-b746-ccfbb8a756c6"
+      ]
+    }
+  },
+  {
+    "id": "0ecfb9ae-78c1-4095-b746-ccfbb8a756c6",
+    "data": {
+      "gender": "F",
+      "first name": "Зангирова Алсу",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "children": [
+        "35ba5a1f-7d6f-46e9-81b1-eea324de1195"
+      ],
+      "spouses": [
+        "cdc27885-7067-492a-b312-5b6cffee1e0f"
+      ]
+    }
+  },
+  {
+    "id": "35ba5a1f-7d6f-46e9-81b1-eea324de1195",
+    "data": {
+      "gender": "F",
+      "first name": "Зангирова Диляра",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "parents": [
+        "cdc27885-7067-492a-b312-5b6cffee1e0f",
+        "0ecfb9ae-78c1-4095-b746-ccfbb8a756c6"
+      ],
+      "spouses": [
+        "ad03dd0b-fe21-4a72-91c9-3419e50d37a3"
+      ]
+    }
+  },
+  {
+    "id": "ad03dd0b-fe21-4a72-91c9-3419e50d37a3",
+    "data": {
+      "gender": "M",
+      "first name": "Зангиров Динар",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "spouses": [
+        "35ba5a1f-7d6f-46e9-81b1-eea324de1195"
+      ]
+    }
+  },
+  {
+    "id": "9a371485-6402-49f4-a0ca-a7f32ce41ac4",
+    "data": {
+      "gender": "M",
+      "first name": "Гайнетдинов Рафик",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "children": [
+        "89cbaa29-6844-4335-84f2-e2bc5bad57cc",
+        "93a3df69-7fdd-4c03-9850-1cdbcd8eed65"
+      ],
+      "spouses": [
+        "92aca72c-256b-411d-94cb-eae7bc302c0f"
+      ]
+    }
+  },
+  {
+    "id": "92aca72c-256b-411d-94cb-eae7bc302c0f",
+    "data": {
+      "gender": "F",
+      "first name": "Гайнетдинова Хазяр",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "children": [
+        "89cbaa29-6844-4335-84f2-e2bc5bad57cc",
+        "93a3df69-7fdd-4c03-9850-1cdbcd8eed65"
+      ],
+      "spouses": [
+        "9a371485-6402-49f4-a0ca-a7f32ce41ac4"
+      ]
+    }
+  },
+  {
+    "id": "93a3df69-7fdd-4c03-9850-1cdbcd8eed65",
+    "data": {
+      "gender": "M",
+      "first name": "Гайнетдинов Ирек",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "parents": [
+        "9a371485-6402-49f4-a0ca-a7f32ce41ac4",
+        "92aca72c-256b-411d-94cb-eae7bc302c0f"
+      ],
+      "children": [
+        "a18d98f4-48de-48f6-b047-0a95bab16fad",
+        "4a1604f8-c0eb-4944-9856-bf417309f43c",
+        "1d509243-5b28-4af9-a53f-0851ab517391"
+      ],
+      "spouses": [
+        "f9d45975-ec07-4fca-9ff2-f0e3a7f11ccb"
+      ]
+    }
+  },
+  {
+    "id": "f9d45975-ec07-4fca-9ff2-f0e3a7f11ccb",
+    "data": {
+      "gender": "F",
+      "first name": "Гайнетдинова Наталья",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "children": [
+        "a18d98f4-48de-48f6-b047-0a95bab16fad",
+        "4a1604f8-c0eb-4944-9856-bf417309f43c",
+        "1d509243-5b28-4af9-a53f-0851ab517391"
+      ],
+      "spouses": [
+        "93a3df69-7fdd-4c03-9850-1cdbcd8eed65"
+      ]
+    }
+  },
+  {
+    "id": "a18d98f4-48de-48f6-b047-0a95bab16fad",
+    "data": {
+      "gender": "M",
+      "first name": "Гайнетдинов Руслан",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "parents": [
+        "93a3df69-7fdd-4c03-9850-1cdbcd8eed65",
+        "f9d45975-ec07-4fca-9ff2-f0e3a7f11ccb"
+      ]
+    }
+  },
+  {
+    "id": "4a1604f8-c0eb-4944-9856-bf417309f43c",
+    "data": {
+      "gender": "F",
+      "first name": "Гайнетдинова Алина",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "parents": [
+        "93a3df69-7fdd-4c03-9850-1cdbcd8eed65",
+        "f9d45975-ec07-4fca-9ff2-f0e3a7f11ccb"
+      ]
+    }
+  },
+  {
+    "id": "1d509243-5b28-4af9-a53f-0851ab517391",
+    "data": {
+      "gender": "M",
+      "first name": "Гайнетдинов Самат",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "parents": [
+        "93a3df69-7fdd-4c03-9850-1cdbcd8eed65",
+        "f9d45975-ec07-4fca-9ff2-f0e3a7f11ccb"
+      ]
+    }
+  },
+  {
+    "id": "5b4a23b0-c77d-412c-802f-2d407180079e",
+    "data": {
+      "gender": "M",
+      "first name": "Зангиров Бахрас",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "children": [
+        "1c96f08c-4d5a-4aae-a610-8777437e2b82",
+        "21462a89-3eea-48b5-ba5e-48be685dba14",
+        "cf7af04a-820d-4132-8ae8-9dce69b82cce",
+        "2e6f7cbb-4886-431d-a4d9-77438875cb03",
+        "75eb6322-3620-4844-9e18-7b1785557348"
+      ]
+    }
+  },
+  {
+    "id": "21462a89-3eea-48b5-ba5e-48be685dba14",
+    "data": {
+      "gender": "M",
+      "first name": "Зангиров Идрис",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "parents": [
+        "5b4a23b0-c77d-412c-802f-2d407180079e"
+      ]
+    }
+  },
+  {
+    "id": "cf7af04a-820d-4132-8ae8-9dce69b82cce",
+    "data": {
+      "gender": "M",
+      "first name": "Зангиров Фарид",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "parents": [
+        "5b4a23b0-c77d-412c-802f-2d407180079e"
+      ]
+    }
+  },
+  {
+    "id": "2e6f7cbb-4886-431d-a4d9-77438875cb03",
+    "data": {
+      "gender": "M",
+      "first name": "Зангиров Ильяс",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "parents": [
+        "5b4a23b0-c77d-412c-802f-2d407180079e"
+      ]
+    }
+  },
+  {
+    "id": "75eb6322-3620-4844-9e18-7b1785557348",
+    "data": {
+      "gender": "M",
+      "first name": "Зангиров Ильдус",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "parents": [
+        "5b4a23b0-c77d-412c-802f-2d407180079e"
+      ]
+    }
+  },
+  {
+    "id": "b848e42c-ee92-4597-86b0-1a838290dd6f",
+    "data": {
+      "gender": "M",
+      "first name": "Хусаинов Аюп",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "children": [
+        "e1d1a85b-83be-4459-b373-387fa4e79da2",
+        "178787c1-04b9-465c-ae53-9ea00d27742f",
+        "19f9513d-b444-4f9e-892f-b26e45c0d835",
+        "609886e2-0e78-4592-9ffe-f3aa0cbd2904",
+        "a0a4bce0-55a1-4583-9997-febd3e061595",
+        "4f60e6c8-2d9e-4f48-b404-df39f785d8d4",
+        "b7bbbc5d-208a-48ba-a8aa-edae54a8cd56"
+      ],
+      "spouses": [
+        "3506e909-bda3-47f2-9a6b-b022e68343c3"
+      ]
+    }
+  },
+  {
+    "id": "3506e909-bda3-47f2-9a6b-b022e68343c3",
+    "data": {
+      "gender": "F",
+      "first name": "Хусаинова Хатима",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "parents": [
+        "3e198145-f91d-45ad-bf71-17377fb4824d"
+      ],
+      "children": [
+        "e1d1a85b-83be-4459-b373-387fa4e79da2",
+        "178787c1-04b9-465c-ae53-9ea00d27742f",
+        "19f9513d-b444-4f9e-892f-b26e45c0d835",
+        "609886e2-0e78-4592-9ffe-f3aa0cbd2904",
+        "a0a4bce0-55a1-4583-9997-febd3e061595",
+        "4f60e6c8-2d9e-4f48-b404-df39f785d8d4",
+        "b7bbbc5d-208a-48ba-a8aa-edae54a8cd56"
+      ],
+      "spouses": [
+        "b848e42c-ee92-4597-86b0-1a838290dd6f"
+      ]
+    }
+  },
+  {
+    "id": "3e198145-f91d-45ad-bf71-17377fb4824d",
+    "data": {
+      "gender": "M",
+      "first name": "Миннибай Миннибаев",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "children": [
+        "3506e909-bda3-47f2-9a6b-b022e68343c3"
+      ]
+    }
+  },
+  {
+    "id": "178787c1-04b9-465c-ae53-9ea00d27742f",
+    "data": {
+      "gender": "F",
+      "first name": "Хусаинов Накыйп",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "parents": [
+        "3506e909-bda3-47f2-9a6b-b022e68343c3",
+        "b848e42c-ee92-4597-86b0-1a838290dd6f"
+      ]
+    }
+  },
+  {
+    "id": "19f9513d-b444-4f9e-892f-b26e45c0d835",
+    "data": {
+      "gender": "F",
+      "first name": "Хусаинова Накыя",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "parents": [
+        "3506e909-bda3-47f2-9a6b-b022e68343c3",
+        "b848e42c-ee92-4597-86b0-1a838290dd6f"
+      ]
+    }
+  },
+  {
+    "id": "609886e2-0e78-4592-9ffe-f3aa0cbd2904",
+    "data": {
+      "gender": "F",
+      "first name": "Хусаинова Насима",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "parents": [
+        "3506e909-bda3-47f2-9a6b-b022e68343c3",
+        "b848e42c-ee92-4597-86b0-1a838290dd6f"
+      ]
+    }
+  },
+  {
+    "id": "a0a4bce0-55a1-4583-9997-febd3e061595",
+    "data": {
+      "gender": "M",
+      "first name": "Хусаинов Наиль",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "parents": [
+        "3506e909-bda3-47f2-9a6b-b022e68343c3",
+        "b848e42c-ee92-4597-86b0-1a838290dd6f"
+      ]
+    }
+  },
+  {
+    "id": "4f60e6c8-2d9e-4f48-b404-df39f785d8d4",
+    "data": {
+      "gender": "F",
+      "first name": "Хусаинова Нагима",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "parents": [
+        "3506e909-bda3-47f2-9a6b-b022e68343c3",
+        "b848e42c-ee92-4597-86b0-1a838290dd6f"
+      ]
+    }
+  },
+  {
+    "id": "b7bbbc5d-208a-48ba-a8aa-edae54a8cd56",
+    "data": {
+      "gender": "M",
+      "first name": "Хусаинов Накыйп",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "parents": [
+        "b848e42c-ee92-4597-86b0-1a838290dd6f",
+        "3506e909-bda3-47f2-9a6b-b022e68343c3"
+      ],
+      "children": [
+        "b09b1cb5-bc87-4c10-b086-17cc3b7a6d3c",
+        "b9e16f72-b92d-4e24-8278-0a6f51fe8d4f",
+        "d7b23c79-071c-4cc7-a7ae-4b70d684727f",
+        "31b365f9-6b83-465c-868a-767aac44b11b",
+        "1e1977bc-d315-466f-8ff0-f0061fe7e9ce"
+      ],
+      "spouses": [
+        "615588e7-2796-4cc8-91ba-43b78c870e9a"
+      ]
+    }
+  },
+  {
+    "id": "615588e7-2796-4cc8-91ba-43b78c870e9a",
+    "data": {
+      "gender": "F",
+      "first name": "Хусаинова Накыя",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "children": [
+        "b09b1cb5-bc87-4c10-b086-17cc3b7a6d3c",
+        "b9e16f72-b92d-4e24-8278-0a6f51fe8d4f",
+        "d7b23c79-071c-4cc7-a7ae-4b70d684727f",
+        "31b365f9-6b83-465c-868a-767aac44b11b",
+        "1e1977bc-d315-466f-8ff0-f0061fe7e9ce"
+      ],
+      "spouses": [
+        "b7bbbc5d-208a-48ba-a8aa-edae54a8cd56"
+      ]
+    }
+  },
+  {
+    "id": "b09b1cb5-bc87-4c10-b086-17cc3b7a6d3c",
+    "data": {
+      "gender": "M",
+      "first name": "Хусаинов Ильхам",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "parents": [
+        "b7bbbc5d-208a-48ba-a8aa-edae54a8cd56",
+        "615588e7-2796-4cc8-91ba-43b78c870e9a"
+      ],
+      "children": [
+        "b42e73fa-b10a-4844-905b-86b20a509c9f",
+        "778cfd60-ced4-4ca8-8eeb-ce5ab2eee652",
+        "b0bd96d7-834b-4311-a4cb-0b6870989284",
+        "7606f78d-5022-4ca1-8ca7-c1bd4a59bfcb"
+      ],
+      "spouses": [
+        "bf488ca9-d84c-465f-91e6-72cdf569b46e"
+      ]
+    }
+  },
+  {
+    "id": "b9e16f72-b92d-4e24-8278-0a6f51fe8d4f",
+    "data": {
+      "gender": "F",
+      "first name": "Хусаинова Лейсан",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "parents": [
+        "b7bbbc5d-208a-48ba-a8aa-edae54a8cd56",
+        "615588e7-2796-4cc8-91ba-43b78c870e9a"
+      ]
+    }
+  },
+  {
+    "id": "d7b23c79-071c-4cc7-a7ae-4b70d684727f",
+    "data": {
+      "gender": "F",
+      "first name": "Хусаинова Лейля",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "parents": [
+        "615588e7-2796-4cc8-91ba-43b78c870e9a",
+        "b7bbbc5d-208a-48ba-a8aa-edae54a8cd56"
+      ]
+    }
+  },
+  {
+    "id": "bf488ca9-d84c-465f-91e6-72cdf569b46e",
+    "data": {
+      "gender": "F",
+      "first name": "Хусаинова Ильхамия",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "children": [
+        "b42e73fa-b10a-4844-905b-86b20a509c9f",
+        "778cfd60-ced4-4ca8-8eeb-ce5ab2eee652",
+        "b0bd96d7-834b-4311-a4cb-0b6870989284",
+        "7606f78d-5022-4ca1-8ca7-c1bd4a59bfcb"
+      ],
+      "spouses": [
+        "b09b1cb5-bc87-4c10-b086-17cc3b7a6d3c"
+      ]
+    }
+  },
+  {
+    "id": "b42e73fa-b10a-4844-905b-86b20a509c9f",
+    "data": {
+      "gender": "M",
+      "first name": "Хусаинов Инсаф",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "parents": [
+        "b09b1cb5-bc87-4c10-b086-17cc3b7a6d3c",
+        "bf488ca9-d84c-465f-91e6-72cdf569b46e"
+      ]
+    }
+  },
+  {
+    "id": "778cfd60-ced4-4ca8-8eeb-ce5ab2eee652",
+    "data": {
+      "gender": "F",
+      "first name": "Хусаинова Илюза",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "parents": [
+        "b09b1cb5-bc87-4c10-b086-17cc3b7a6d3c",
+        "bf488ca9-d84c-465f-91e6-72cdf569b46e"
+      ]
+    }
+  },
+  {
+    "id": "b0bd96d7-834b-4311-a4cb-0b6870989284",
+    "data": {
+      "gender": "F",
+      "first name": "Хусаинова Илюса",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "parents": [
+        "b09b1cb5-bc87-4c10-b086-17cc3b7a6d3c",
+        "bf488ca9-d84c-465f-91e6-72cdf569b46e"
+      ]
+    }
+  },
+  {
+    "id": "7606f78d-5022-4ca1-8ca7-c1bd4a59bfcb",
+    "data": {
+      "gender": "M",
+      "first name": "Хусаинов Айзат",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "parents": [
+        "b09b1cb5-bc87-4c10-b086-17cc3b7a6d3c",
+        "bf488ca9-d84c-465f-91e6-72cdf569b46e"
+      ]
+    }
+  },
+  {
+    "id": "31b365f9-6b83-465c-868a-767aac44b11b",
+    "data": {
+      "gender": "F",
+      "first name": "Хусаинова Лейсан",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "parents": [
+        "b7bbbc5d-208a-48ba-a8aa-edae54a8cd56",
+        "615588e7-2796-4cc8-91ba-43b78c870e9a"
+      ]
+    }
+  },
+  {
+    "id": "1e1977bc-d315-466f-8ff0-f0061fe7e9ce",
+    "data": {
+      "gender": "F",
+      "first name": "Хусаинова Ландыш",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "parents": [
+        "615588e7-2796-4cc8-91ba-43b78c870e9a",
+        "b7bbbc5d-208a-48ba-a8aa-edae54a8cd56"
+      ]
+    }
+  }
+]
